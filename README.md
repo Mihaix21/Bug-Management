@@ -15,4 +15,4 @@
 
 ### Vizualizarea tuturor bug-urilor din toate proiectele
 
-<img width="814" height="750" alt="image" src="https://github.com/user-attachments/assets/e06ce4fb-279d-4980-8268-c962fe85e4dc" />
+<img width="520" height="480" alt="Picture1" src="https://github.com/user-attachments/assets/6a142258-7594-4641-873e-7c9063cb95af" />
