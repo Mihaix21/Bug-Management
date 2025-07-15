@@ -1,4 +1,5 @@
 ﻿# Bug-Management
+<img width="812" height="428" alt="image" src="https://github.com/user-attachments/assets/51b1289b-bc2d-4146-b361-216f9c55cfcc" />
 
 Aplicatie pentru gestionarea bug-urilor în proiecte software. Oferă următoarele funcționalități principale:
 
